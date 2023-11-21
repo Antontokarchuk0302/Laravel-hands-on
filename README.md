@@ -37,13 +37,4 @@ you can directly go to any branch for the topic that you want to understand, and
 9. [files-managment](https://github.com/mazimez/laravel-hands-on/tree/files-managment)
 10. [file-seeder](https://github.com/mazimez/laravel-hands-on/tree/file-seeder)
 11. [basic-crud](https://github.com/mazimez/laravel-hands-on/tree/basic-crud)
-12. [sorting-searching](https://github.com/mazimez/laravel-hands-on/tree/sorting-searching)
-13. [eloquent-relationships](https://github.com/mazimez/laravel-hands-on/tree/eloquent-relationships)
-14. [enhanced-crud](https://github.com/mazimez/laravel-hands-on/tree/enhanced-crud)
-15. [enhanced-relationship](https://github.com/mazimez/laravel-hands-on/tree/enhanced-relationship)
-16. [scope-attribute](https://github.com/mazimez/laravel-hands-on/tree/scope-attribute)
-17. [policies](https://github.com/mazimez/laravel-hands-on/tree/policies)
-18. [middleware](https://github.com/mazimez/laravel-hands-on/tree/middleware)
-19. [polymorphism-part-1](https://github.com/mazimez/laravel-hands-on/tree/polymorphism-part-1)
-20. [polymorphism-part-2](https://github.com/mazimez/laravel-hands-on/tree/polymorphism-part-2)
 
